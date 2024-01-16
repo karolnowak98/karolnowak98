@@ -25,7 +25,7 @@ I have been creating games for about 4 years. During this time, I created, devel
 </p>
 <br />
 
-<b>Some of my games:</b>
+<b>Below are a few small repos that should be treated as a little dose of my programming skills and way of thinking.</b>
 
 <div width="100%" align="center"><a href="https://github.com/karolnowak98/tic-tac-toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/shooting-objects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=shooting-objects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
@@ -46,7 +46,7 @@ I became interested in websites as a hobby, and I have been learning the latest 
 </p>
 <br />
 
-<b>Some of my web applications:</b>
+<b>Some of my very basic web apps:</b>
 
 <div width="100%" align="center"><a href="https://github.com/karolnowak98/financial-transactions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=financial-transactions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/dot-net-todo-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=dot-net-todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
