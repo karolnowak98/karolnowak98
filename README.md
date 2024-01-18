@@ -34,7 +34,7 @@ I have been creating games for about 4 years. During this time, I created, devel
 
 ### Web applications
 
-I became interested in websites as a hobby, and I have been learning the latest technologies intensively for about a year. I focus mainly on the backend, in my case .NET 8. In practice, I use design patterns such as MVC, Clean architecture, CQRS, Mediator, etc.
+I became interested in websites as a hobby, and I have been learning the latest technologies intensively for about a year. I focus mainly on the backend, in my case Asp.NET 8. In practice, I use design patterns such as MVC, Clean architecture, CQRS, Mediator, etc.
 
 - Packages: Entity Framework, Minimal API, FastEndpoints, MediatR, Fluent Validation, Ardalis packages
 
@@ -47,7 +47,6 @@ I became interested in websites as a hobby, and I have been learning the latest 
 <br />
 
 <b>Some of my very basic web apps:</b>
-
 
 <div width="100%" align="center"><a href="https://github.com/karolnowak98/financial-transactions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=financial-transactions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/dot-net-todo-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=dot-net-todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
