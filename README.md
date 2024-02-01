@@ -16,6 +16,8 @@ Professional programmer with over 3 years of commercial experience in programmin
 I have been creating games for about 4 years. During this time, I created, developed and maintained hyper-stack projects, developer tools and, of course, many 2D/3D Mobile/Desktop/cross-platform games, ranging from basic platformers, hypercasuals, puzzle games through strategy games (RTS, City Builders, Tower Defenses) ending with role-playing RPG games.
 
 - Assets: Zenject, Odin inspector, New input system, DOTS (still learning), DotWeen, Dialogue system, Quest machine, Cinemachine, Playfab, Firebase, Google play services/sdk, CloudOnce etc.
+- Databases and backend platforms: Firebase, Azure Playfab  
+- Multiplayer: Netcode for entities
 
 <br />
 <p align="center">
@@ -37,7 +39,8 @@ I have been creating games for about 4 years. During this time, I created, devel
 I became interested in websites as a hobby, and I have been learning the latest technologies intensively for more than a year. I focus mainly on the backend, in my case Asp.NET 8. In practice, I use design patterns such as MVC, Clean architecture, CQRS, Mediator, etc. My frontend stack is mainly newest Angular 17 (TypeScript).
 
 - Backend: Entity Framework, Minimal API, FastEndpoints, MediatR, Fluent Validation, Ardalis packages
-- Frontend: Bootstrap5, FontAwesome, NgRx, Angular CLI, Jquery
+- Frontend: Bootstrap5, FontAwesome, NgRx, Angular CLI, JQuery
+- Databases: Microsoft SQL Server, Oracle MySql
 
 <br />
 <p align="center">
