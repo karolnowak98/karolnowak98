@@ -34,9 +34,10 @@ I have been creating games for about 4 years. During this time, I created, devel
 
 ### Web applications
 
-I became interested in websites as a hobby, and I have been learning the latest technologies intensively for about a year. I focus mainly on the backend, in my case Asp.NET 8. In practice, I use design patterns such as MVC, Clean architecture, CQRS, Mediator, etc.
+I became interested in websites as a hobby, and I have been learning the latest technologies intensively for more than a year. I focus mainly on the backend, in my case Asp.NET 8. In practice, I use design patterns such as MVC, Clean architecture, CQRS, Mediator, etc. My frontend stack is mainly newest Angular 17 (TypeScript).
 
-- Packages: Entity Framework, Minimal API, FastEndpoints, MediatR, Fluent Validation, Ardalis packages
+- Backend: Entity Framework, Minimal API, FastEndpoints, MediatR, Fluent Validation, Ardalis packages
+- Frontend: Bootstrap5, FontAwesome, NgRx, Angular CLI, Jquery
 
 <br />
 <p align="center">
