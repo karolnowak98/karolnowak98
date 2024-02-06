@@ -13,7 +13,7 @@ Professional programmer with over 3 years of commercial experience in programmin
 
 ### Games
 
-I have been creating games for about 4 years. During this time, I created, developed and maintained hyper-stack projects, developer tools and, of course, many 2D/3D Mobile/Desktop/cross-platform games, ranging from basic platformers, hypercasuals, puzzle games through strategy games (RTS, City Builders, Tower Defenses) ending with role-playing RPG games.
+I have been creating games for about 5 years. During this time, I created, developed and maintained hyper-stack projects, developer tools and, of course, many 2D/3D Mobile/Desktop/cross-platform games, ranging from basic platformers, hypercasuals, puzzle games through strategy games (RTS, City Builders, Tower Defenses) ending with RPG games.
 
 - Assets: Zenject, Odin inspector, New input system, DOTS (still learning), DotWeen, Dialogue system, Quest machine, Cinemachine, Google play services/sdk, CloudOnce etc.
 - Databases and backend platforms: Firebase, Azure Playfab 
