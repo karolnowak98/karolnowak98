@@ -29,9 +29,18 @@ I have been creating games for about 5 years. During this time, I created, devel
 
 <b>Below are a few small repos that should be treated as a little dose of my programming skills and way of thinking.</b>
 
-<div width="100%" align="center"><a href="https://github.com/karolnowak98/tic-tac-toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/shooting-objects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=shooting-objects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/karolnowak98/lca-project-dots" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=lca-project-dots&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/fps" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=fps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/karolnowak98/tic-tac-toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/shooting-objects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=shooting-objects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/karolnowak98/poke-presenter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=poke-presenter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/glassy-scroll-view" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=glassy-scroll-view&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/karolnowak98/fps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=fps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/lca-project-dots" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=lca-project-dots&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 <br /><br /><br /><br /><br /><br />
 
 ### Web applications
