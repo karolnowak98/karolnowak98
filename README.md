@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C# Developer
 --------------------------
 
-Professional programmer with over 3 years of commercial experience in programming in the C# language and .NET. And more than 5 overall. During this time I've been creating both games and web applications. As a programmer, I always care about the quality/optimality, readability and scalability/flexability of my code.
+Professional programmer with over 4 years of commercial experience in programming in the C# language. During this time I've been creating games, web and desktop applications. As a programmer, I always care about the quality/optimality, readability and scalability/flexability of my code.
 
 * 🌍  I'm based in Lublin, Poland
 * ✉️  You can contact me at [karol.nowak2298gmail.com](mailto:karol.nowak2298gmail.com)
