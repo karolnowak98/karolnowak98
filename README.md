@@ -8,7 +8,7 @@ Professional programmer with over 4 years of commercial experience in programmin
 
 * 🌍  I'm based in Lublin, Poland
 * ✉️  You can contact me at [karol.nowak2298gmail.com](mailto:karol.nowak2298gmail.com)
-* 🧠  I'm learning ECS architecture, Netcode for Entities (games) and DDD pattern (web applications).
+* 🧠  Azur and DDD pattern.
 * 🤝  I'm open to collaborating on any interesting Unity projects or web applications with an emphasis on the backend (.NET).
 
 ### Games
