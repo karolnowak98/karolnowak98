@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C# Developer
 --------------------------
 
-Professional programmer with 3 years of commercial experience in programming in the C# language. During this time I've been creating games, web and desktop applications, but also API integrations. As a programmer, I always care about the quality/optimality, readability and scalability/flexability of my code. As a programmer, I optimized applications for spikes, performance drops, resource usage, and execution time. I tested applications using unit and integration tests using NUnit, XUnit, and NSubstitute, among others. I dealt with both relational databases (MSQL) and non-relational databases (Firebase, PlayFab).
+Professional programmer with 4 years of commercial experience in programming in the C# language. During this time I've been creating games, web and desktop applications, but also API integrations. As a programmer, I always care about the quality/optimality, readability and scalability/flexability of my code. As a programmer, I optimized applications for spikes, performance drops, resource usage, and execution time. I tested applications using unit and integration tests using NUnit, XUnit, and NSubstitute, among others. I dealt with both relational databases (MSQL) and non-relational databases (Firebase, PlayFab).
 
 * 🌍  I'm based in Lublin, Poland
 * ✉️  You can contact me at [karol.nowak2298gmail.com](mailto:karol.nowak2298gmail.com)
 
+<!--
 ### Games
 
 I have been creating games for about 5 years. During this time, I created, developed and maintained hyper-stack projects, developer tools and, of course, many 2D/3D Mobile/Desktop/cross-platform games, ranging from basic platformers, hypercasuals, puzzle games through strategy games (RTS, City Builders, Tower Defenses) ending with RPG games.
@@ -40,6 +41,7 @@ I have been creating games for about 5 years. During this time, I created, devel
 <div width="100%" align="center"><a href="https://github.com/karolnowak98/poke-presenter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=poke-presenter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karolnowak98/glassy-scroll-view" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karolnowak98&repo=glassy-scroll-view&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
+-->
 
 ### Web applications
 
