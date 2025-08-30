@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C# Developer
 --------------------------
 
-Professional programmer with 4 years of commercial experience in programming in the C# language. During this time I've been creating games, web and desktop applications, but also API integrations. As a programmer, I always care about the quality/optimality, readability and scalability/flexability of my code. As a programmer, I optimized applications for spikes, performance drops, resource usage, and execution time. I tested applications using unit and integration tests using NUnit, XUnit, and NSubstitute, among others. I dealt with both relational databases (MSQL) and non-relational databases (Firebase, PlayFab).
+Professional programmer with 4 years of commercial experience in programming in the C# language. During this time I've been creating games, web and desktop applications, but also API integrations. As a programmer, I always care about the quality/optimality, readability and scalability/flexability of my code. As a programmer, I optimized applications for spikes, performance drops, resource usage, and execution time. I tested applications using unit and integration tests using NUnit, XUnit, and NSubstitute, among others. I dealt with both relational databases (MSQL, MySQL) and non-relational databases (Firebase, PlayFab).
 
 * 🌍  I'm based in Lublin, Poland
 * ✉️  You can contact me at [karol.nowak2298gmail.com](mailto:karol.nowak2298gmail.com)
@@ -43,9 +43,7 @@ I have been creating games for about 5 years. During this time, I created, devel
 <br /><br /><br /><br /><br /><br />
 -->
 
-### Web applications
-
-I became interested in websites as a hobby, and I have been learning the latest technologies intensively for more than a year. I focus mainly on the backend, in my case Asp.NET 8. In practice, I use design patterns such as MVC, Clean architecture, CQRS, Mediator, etc. My frontend stack is mainly newest Angular 17 (TypeScript).
+I became interested in websites as a hobby during working as a Unity developer and I have been learning the latest technologies intensively for more than a year. I focus mainly on the backend, in my case Asp.NET 8. In practice, I use design patterns such as MVC, Clean architecture, CQRS, Mediator, etc. My frontend stack is mainly newest Angular 17 (TypeScript).
 
 - Backend: Entity Framework, Minimal API, FastEndpoints, MediatR, Fluent Validation, Fluent Migration, Dapper, Ardalis packages
 - Frontend: Bootstrap5, FontAwesome, NgRx, Angular CLI, JQuery
